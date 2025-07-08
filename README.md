@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Akbar Jahangir Banner" style="border-radius: 20px;"/>
-</p>
-
 <h1 align="center">Hey 👋, I'm Akbar Jahangir</h1>
 <h3 align="center">🎮 Unity Game Developer | 🧠 2D & 3D Game Designer | 💻 C# Programmer</h3>
 
