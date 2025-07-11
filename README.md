@@ -10,50 +10,31 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final-year BSIT student at **PUCIT**, Lahore  
-- 🔭 Currently building **2D & 3D games** using **Unity & C#**
-- 💡 Passionate about designing immersive player experiences
-- 🌱 Exploring **Cinemachine**, **Shader Graph**, and **Multiplayer Netcode**
+- 🎓 Final-year **BSIT** student at **PUCIT**, Lahore  
+- 🔧 Building engaging **2D/3D games** and tools with **Unity** and **C#**
+- 🧠 Passionate about **game mechanics**, **cinematics**, and user experience
+- 🌱 Currently exploring **Multiplayer**, **Shader Graph**, and **AI systems**
 - 📬 Reach me at: [jahangirakbar015@gmail.com](mailto:jahangirakbar015@gmail.com)
 
 ---
 
 ### 🧩 Featured Projects
 
-| Game | Description | Stack |
-|------|-------------|-------|
-| 🚀 **Space Shooter 3D** *(Demo)* | Fast-paced 3D shooter with enemy AI and particles | Unity, C#, Blender |
-| 🧠 **Puzzle Mania 2D** *(Prototype)* | A logic-based puzzle game for Android | Unity, C#, Photoshop |
-| 📱 **ToDo App** *(Legacy project)* | A simple productivity tool (Android) | Java, XML |
+| 🔢 Project Name              | 📋 Description                                          | 🛠️ Tech Stack        |
+|-----------------------------|----------------------------------------------------------|------------------------|
+| 📱 **ToDo App**              | A sleek Android app for managing tasks and productivity  | Java, XML              |
+| 🛒 **Console Shop Manager**  | Console-based billing system with item catalog and logic | C#, .NET Console       |
+| 🎮 **Basic 2D Platformer**   | A platformer prototype demonstrating movement & gravity  | Unity, C#              |
+| 📊 **Student Marksheet**     | Console app for generating academic results              | C#, Console App        |
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,csharp,blender,git,github,figma,photoshop,vscode&theme=dark" />
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamakbarJahangir&show_icons=true&theme=tokyonight&hide=issues&rank_icon=github" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamakbarJahangir&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamakbarJahangir&theme=tokyonight" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:jahangirakbar015@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/iamakbarJahangir"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:jahangirakbar015@gmail.com"><b>📧 Email</b></a> • 
+  <a href="https://github.com/iamakbarJahangir"><b>🐙 GitHub</b></a> • 
+  <a href="https://www.linkedin.com/in/akbarjahangir/"><b>💼 LinkedIn</b></a>
 </p>
 
 ---
@@ -65,7 +46,6 @@
 
 ---
 
-<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamakbarJahangir&style=for-the-badge" alt="profile views"/>
 </p>
